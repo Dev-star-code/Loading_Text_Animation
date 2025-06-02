@@ -8,7 +8,7 @@ A simple and elegant loading text animation created using HTML and CSS. This pro
 * ⚡ Pure HTML & CSS
 * 🎯 Smooth and responsive animation
 * 🧩 Easy to integrate
-* 🪶 Lightweight and fastS
+* 🪶 Lightweight and fast
   
 ## 🧑‍💻 Author
 Dev Star Code
